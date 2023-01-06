@@ -1,0 +1,39 @@
+*{
+  background-color: black;
+  color: white;
+}
+
+li {
+  list-style: none;
+}
+
+ul {
+  margin-left: 50px;
+  margin-top: 200px;
+  display: flex;
+  justify-content: space-around;
+}
+
+h2 {
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+  text-decoration: none;
+  margin-top: 50px;
+}
+
+ol {
+  display: flex;
+  justify-content: space-around;
+}
+
+img {
+  width: 200px;
+}
+
+.gus {
+  margin-top: 100px;
+  margin-left: 200px;
+}
